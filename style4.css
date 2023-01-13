@@ -1,0 +1,16 @@
+.w-800{
+    width: 50vw;
+}
+
+.relativo{
+    width: 30vw;
+}
+
+#fondo{
+    background-color: aquamarine;
+}
+
+.parrafo{
+    font-style: italic;
+    font-weight: 500;
+}

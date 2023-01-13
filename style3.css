@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+    color: rgb(0, 255, 191);
+    padding: 50px;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+div{
+    background-color: rgb(45, 123, 212);
+    width: 900px;
+    height: fit-content;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+h6{
+    text-align: center;
+    color: beige;
+}
